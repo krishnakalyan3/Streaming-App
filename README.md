@@ -8,6 +8,8 @@ To run this code please use the syntax below.
 
 `nlines` - Number of lines to be read from a file
 
+Project Structure
+
 ```
 README.md
 ├── build.sbt
